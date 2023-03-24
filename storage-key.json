@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "moni-development",
+  "private_key_id": "8073257a37a167e6901039fbbf61908f94e5cfcd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVoUK6OIcdfKuG\n+Y/V1agMBGUzswHhQC2iAcrfOeKeTa5rvSHiLWQDaXNgaxdqOMM1wZewQYOQ5lbJ\nBxdPKulbgQg6mAadW+JuuFKJX8ftqUY9VviXEiX/l/zf0LvbE3nfeyY38QmJV9oT\nq6AyGprL7mAjEom1yKR2xCfHqTqDZvytCufc7mwxixNgRCA67kjXDIKWAYAtIWW+\naJqWnKpMdJeIO/u2A9CCvQB2980+kOxf2FwnSVtJIZSd8XGcpePPaknnALoBF2Nb\nXrE9+4ywm14aAul+ZOMKs0SyzJyzmTnPgXQALKSgzVFKGTOfYsvylllAdbnIF+/i\nWG0HVnw3AgMBAAECggEAOM46h3krbpnkgr8fCKbu//TxONHmTk4vpNg6XUncC45h\nP/zTLstds1/m0f2GK6j2D2P6Qwt0N+ACpZogEsmvQzJ23cvWgwodqjwm9Ylb3RHN\nHT916+CTdXgNpCjaEL9RnvLhXQ6QuMgV/i7DiBIKn45ViCsjBdTw/zfUBFxuXvD3\nM0teWV185Js6fmhJrCbV4FJlT/K7nKfahLFA9FWq9961pA1La5hB9YArhqfp+Q89\no4AGc5iM1e71caXKlZFagye7m+Ya3coNhHI9lpNzWjmJVWzs2wvnQ/WdX6qqVqMC\nhpkww4RCNTA9bQqXdy9g8Tv0u17qavssG8LupVPbZQKBgQDFCjhxwh35NLFhYgpx\nx/lVzeh7awHIG04+67SiJx3Azkslci25yrjdyJu0lNhf55jwpTcyJLDSCBJ/xCdD\nq5y20prghUtI0YTVWBkDD0RAJppCXqduJve2BlwsUNtw8hjv2WOHp9YNx9JFVBdh\npGgbNkvlRjtbXHicaoGRY6T4OwKBgQDCZ08L4xmaRAOl/UVKvgrEbJFEUXRKKWcf\nrT9h2Og78y8gCuxoCAik5FMdyh+1b7D/B4TX99VV6+xWDVyjcLhX1OQLO/s0iD2G\n5IaEb56piouwBRuIGbLxjqNqvp3IPa181Hq1FGn6FliLGKqBk+9Ik7N4TPor8Vbz\ndd+mqbPINQKBgQCyaIqrFiSlnHxvvKHQXEz60DIMbdtzIKY8epdXqytZhHCuOzAD\n5fZ1ekrhu1QfokfsvOu5T1d7FSwK28ThlOWU9CSf3pFIIc2wjtA24P/fRhSuu53G\nMypfemrDBYNsRQknQyLHlcRPPfq6I2X4VzCcUxFtS6Y7FwNuPVGMHzkkOQKBgCRq\n3/b1GxW4CgrtUC65PSEgyXHH5IYEDYp0lPwKey7H1pslELZIUv44u41IEPqXKswL\np4ohpjhLUuGn7SO8+PuTKQklumBT6Vq8sqpakplmF9bojgjH76qqsthLTxl03GwX\nDcmgQl4UE5AzFbXidZ/d82/k07SpqEVBXp1FCyXFAoGADtKimFjWK6ungGb6MYwG\nAywdMo6QXEoMZ0yRByxa5tii/VWfvjkt/2nDIAecXzrdBSnyl58hMQw/yoAg4JWc\ncAoDJAwp90cfPmcTL9e8XU6rcu94URULgWL9R6nfL+r5IBDPaHWkIHMAQAYaODGg\nW/GPZSE9xV3r04hEJT4Z65s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lab-test@moni-development.iam.gserviceaccount.com",
+  "client_id": "109696039593580585755",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lab-test%40moni-development.iam.gserviceaccount.com"
+}
